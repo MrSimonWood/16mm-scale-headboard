@@ -1,7 +1,7 @@
 /*
 
 Name:        Headboard for 16mm scale model railway trains
-Model URI:   https://snwd.uk/3dp_headboard
+Model URI:   https://snwd.uk/3dpheadboard
 Description: Headboard with customisable lettering for 16mm scale model railways
 Version:     v1.0
 Creator:     Simon Wood

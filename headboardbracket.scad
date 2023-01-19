@@ -1,0 +1,9 @@
+difference(){
+    cube([14,8,3]);
+    translate([5,-1,-1])
+        cube([4,10,2]);
+    translate([-1,-1,1])
+        cube([4,10,3]);
+    translate([11,-1,1])
+        cube([4,10,3]);
+}

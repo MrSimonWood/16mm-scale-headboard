@@ -16,6 +16,8 @@ Initially I printed these in ABS to use on live steam models because, mounting t
 
 # Post-Printing
 
+I have also included a headboard bracket which I glue onto the back of the headboard. This allows the headboard to slot onto a lamp iron.
+
 I have found the best approach to painting to be to completely paint in the lettering colour, wait for it to dry, and then paint the background before finally polishing any excess paint of the letters and the surround.
 
 # How I Designed This
